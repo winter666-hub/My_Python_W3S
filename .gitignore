@@ -1,13 +1,16 @@
+# Virtual Environment
+.venv/
+myworld/
+
 # Python cache
 __pycache__/
 *.pyc
 
-# Virtual environment
-.venv/
-venv/
-
-# Jupyter Notebook checkpoint
-.ipynb_checkpoints/
+# Database
+db.sqlite3
 
 # VSCode
 .vscode/
+
+# Environment Variables
+.env
